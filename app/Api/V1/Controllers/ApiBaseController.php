@@ -13,9 +13,9 @@ use OpenApi;
 
 /**
  * @OA\Info(
- *     description="Swagger Documentaion for dial",
+ *     description="Swagger Documentaion for test",
  *     version="1.0.0",
- *     title="Swagger Dial",
+ *     title="Swagger Test",
  *     termsOfService="http://swagger.io/terms/",
  *     @OA\Contact(
  *         email="garima@studiographene.com"
